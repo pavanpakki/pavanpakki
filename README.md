@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @pavanpakki
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m a Front-end developer
+
 
 [![pavan pakki's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavanpakki)](https://github.com/pavanpakki)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanpakki)](https://github.com/pavanpakki)
+
 
 <!---
 pavanpakki/pavanpakki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
